@@ -83,6 +83,8 @@ These features are combined, vectorized, and compared to ensure that each recomm
 
 ### Sample Interaction
 
+- Link: https://colab.research.google.com/github/AribaRizwan/Movie-Recommendation-System/blob/main/Movie_Recommendation_system.ipynb
+
 ```python
 Enter your favorite movie name: iron man
 
